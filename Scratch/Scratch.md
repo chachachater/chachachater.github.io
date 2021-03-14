@@ -5,13 +5,13 @@
 
 初學者如果完全沒有想法的話，可以先跟著[Tutorials](https://scratch.mit.edu/projects/editor/?tutorial=getStarted)進行練習，然後再逐漸修改成自己覺得合適的程式。
 
-![Scratch介面]()
+![Scratch介面](https://github.com/chachachater/chachachater.github.io/blob/master/Scratch/%E4%BB%8B%E9%9D%A2.png?raw=true)
 
 
 ## 實作練習
 這是我跟著Scratch的教學Pong game為基礎，加上一些我覺得會讓遊戲更有挑戰性的修改，所實作出的結果XD
 
-[彈跳球]()
+[彈跳球](https://github.com/chachachater/chachachater.github.io/blob/master/Scratch/%E5%BD%88%E8%B7%B3%E7%90%83.sb3?raw=true)
 
 修改的項目有: 
 * 彈跳球會改變顏色
