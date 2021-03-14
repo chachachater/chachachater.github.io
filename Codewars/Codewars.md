@@ -49,7 +49,7 @@ Input integer ，判斷是奇數還是偶數
 
 雖然解出題目了，不過下面就有Solution可以點開來看，我本來還想點開來看，不過一點開就被提醒說看解答的話，我的Rank/Honor會下降，瞬間失去點開來的慾望(真的不想被降等)，一下子就體驗到這個網站的強大了XD
 
-![介紹網站.png](![image](https://github.com/chachachater/chachachater.github.io/blob/master/Codewars/unlockSolution.png?raw=true)
+![介紹網站.png](https://github.com/chachachater/chachachater.github.io/blob/master/Codewars/unlockSolution.png?raw=true)
 )
  
 ## [Kata] Opposite number
