@@ -24,10 +24,12 @@ Sign up成功，進入頁面之後右下角會有新手上路的教學，建議�
  * 類似玩家對網站的貢獻度，包括社群參與度、解題...等。
  
  (Ranks和Honor可以在網站右上角看到例如下圖，左邊是Ranks右邊是Honor)
- ![介紹網站.png]()
+ 
+ ![介紹網站.png](https://github.com/chachachater/chachachater.github.io/blob/master/Codewars/%E4%BB%8B%E7%B4%B9%E7%B6%B2%E7%AB%99.png?raw=true)
  
 ## 如何使用解題系統
-![如何使用解題系統.png]()
+
+![如何使用解題系統.png](https://github.com/chachachater/chachachater.github.io/blob/master/Codewars/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A7%A3%E9%A1%8C%E7%B3%BB%E7%B5%B1.png?raw=true)
 
 上面的圖示題目的解題介面，可以選擇自己要用的程式語言，連vim都可以選。
 
@@ -46,7 +48,9 @@ Input integer ，判斷是奇數還是偶數
 #### 其他心得 :
 
 雖然解出題目了，不過下面就有Solution可以點開來看，我本來還想點開來看，不過一點開就被提醒說看解答的話，我的Rank/Honor會下降，瞬間失去點開來的慾望(真的不想被降等)，一下子就體驗到這個網站的強大了XD
- ![介紹網站.png]()
+
+![介紹網站.png](![image](https://github.com/chachachater/chachachater.github.io/blob/master/Codewars/unlockSolution.png?raw=true)
+)
  
 ## [Kata] Opposite number
 #### 題目 : [Opposite number](https://www.codewars.com/kata/56dec885c54a926dcd001095/train/javascript)
