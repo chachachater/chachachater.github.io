@@ -9,17 +9,17 @@
 
 Sign up成功，進入頁面之後右下角會有新手上路的教學，建議要看一下才會比較好懂網站上的一些用語(?)，這邊摘要紀錄一些我網站常見的用語 :
 
-* Kata :
+1. Kata :
 > Kata are short coding exercises that are designed to test your abilities.
- * 簡單來講就是題目、關卡的意思。
+  * 簡單來講就是題目、關卡的意思。
 
-* Ranks :
+2. Ranks :
 >We use a "kyū" system to help indicate which level you have trained to, as well as to indicate which level a kata (code challenge) belongs to. Starting at 8 kyū, you will advance all the way to 1 kyū. 
  * 網站上的玩家跟關卡的等級/難易度是用 "kyū" 來稱呼(作者說靈感來自日本的圍棋等級，網站裡面還可以看到其他日文單字例如sensei)
  * 等級最低 8 kyū，最高 1 kyū
  * 解的題目越難升等升的越快，但需要累積一定的題目數才會升等
  
-* Honor :
+3. Honor :
 > Honor is what we call the points that you earn when doing activities on the site.Honor reflects your experience on the site, contributions, etc. Rank more closely reflects the level of challenges that you are capable of completing.
  * 類似玩家對網站的貢獻度，包括社群參與度、解題...等。
  
