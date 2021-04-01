@@ -18,7 +18,7 @@ let sumArray = function (arr) {
 - [ ] #影片230 : arrow和this的差別?
 
 ## 紀錄一些我覺得不錯用的 patterns
-![https://github.com/chachachater/chachachater.github.io/blob/master/The%20Web%20Developer%20Bootcamp%202021/214.png?raw=true]()
+![https://raw.githubusercontent.com/chachachater/chachachater.github.io/master/The%20Web%20Developer%20Bootcamp%202021/214.png]()
 用 `&&` 來檢查 function 被使用的時候是否有給變數 `doNext`，因為如果有給變數 `doNext` value，則為 true，沒有則為 false。 
 如果是 false，則 `&&` 後面的 condition 根本不會執行（`&&`本身的特性就是如果前面的 condition 為 0，則不執行後面）
 
