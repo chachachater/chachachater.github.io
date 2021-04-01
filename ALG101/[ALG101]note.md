@@ -20,14 +20,37 @@
   * 解題系統會先給函式
  1. 標準輸出入
   * 輸入會使用[space]和[enter]，要先對這部分進行處理，例如 :
+處理輸入的方法：
 ```java
 //java
 Scanner input = new Scanner(System.in);
 String in = input.nextLine();
 String s[] = in .split(" ");
 ```
+```javascript
+//javascript
+var readline = require('readline');
+var rl = readline.createInterface({
+    input: process.stdin
+});
+//將input存到lines
+var lines = []
+rl.on('line', function(line) {
+    lines.push(line)
+});
+//回傳結果
+rl.on('close', function() {
+    solution(lines)
+})
+
+function solution(lines) {
+//這裡放程式碼，記得最後的輸出必須是 console.log;，而不是 return.
+}
+```
+處理輸出到輸入的方法（也就是測試結果）
 ```linux
 #linux
 cat input.txt | java code
 ```
+
  
