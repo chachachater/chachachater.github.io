@@ -40,7 +40,7 @@ str = null; //回傳對應的屬性後，即刻銷毀恢復成基本型別
 str = 'Hello';
 ```
 
-`.length `、`.toUpperCase()`...是原本就預設的屬性/方法(?)，如果要給自訂一的屬性方法則:
+`.length `、`.toUpperCase()`...是原本就預設的屬性/方法(?)，如果要給自定義的屬性方法則:
 ```
 var strObj = new String('Hello');
 typeof strObj;     // "object"
