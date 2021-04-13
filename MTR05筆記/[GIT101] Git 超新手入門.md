@@ -62,7 +62,7 @@ commit向下增加版本 / branch? 平行版本在往下增加版本 ，要 merg
 * `git checkout branchName`
   * 切換到別的資料夾
   * 或者是摘下遠端的 branch
-      * (和 pull, fork 的概念不一樣別搞混，這邊是有編輯權限，fork是複製一個 respository, pull是把檔案丟上repository)
+      * (和 pull, fork 的概念不一樣別搞混，這邊是有編輯權限，fork是複製一個 respository, pull request又叫 PR 是把 branch merge 的動作)
 * `git branch -v`
     *看看現有的branch
 * `git branch -m newBranchName`
